@@ -1,4 +1,7 @@
 # CommandLine
+
+DISCLAIMER: This project and any other older Java projects have been discontinued. Instead, check out my other projects like Calculator_NX!
+
 This is a Command Line made with Java.
 Read this file to know the commands.
 
